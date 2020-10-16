@@ -21,8 +21,14 @@
 
 ### Milestone
 
-aaaaa
+- Meet with Clients and assign member who can efficiently achieve requirements by clients.
+- Fix all defects or place where can be improve.
+- Prepare visualization, powerpoint and documentation before demos shown. 
+
+**This job has highest priority.**
+
+Must be resolved by **Oct.16th, 2020**.
 
 ### Gantt diagram
 
-aaa
+![Image]()
