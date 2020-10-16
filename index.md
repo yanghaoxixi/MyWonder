@@ -26,9 +26,9 @@
 - Prepare visualization, powerpoint and documentation before demos shown. 
 
 This job has **highest priority**.
-
+n
 Must be resolved by **Oct.16th, 2020**.
 
 ### Gantt diagram
 
-![Image](https://github.com/yanghaoxixi/MyWonder/blob/gh-pages/Gatt_chart.png)
+![Image](https://github.com/yanghaoxixi/MyWonder/blob/gh-pages/Gantt_chart.png)
