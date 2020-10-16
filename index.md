@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## Project Summary
 
-You can use the [editor on GitHub](https://github.com/yanghaoxixi/MyWonder.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- **What: MyWonder** is a new platform for big data analytics and visualization provided by Khider&Garijo CORP.
+- **Why:** Data visualization is time consuming. Users need to spend for hours for waiting. This platform can reduce it to less than 10min.
+- **How:** Distribute massive files on the cloud to improve the efficiency.
+- **Why good:** User can calculate analytics and summaries from their phones easily, even before jumping to a meeting.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
