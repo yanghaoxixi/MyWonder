@@ -26,7 +26,7 @@
 - Prepare visualization, powerpoint and documentation before demos shown. 
 
 This job has **highest priority**.
-n
+
 Must be resolved by **Oct.16th, 2020**.
 
 ### Gantt diagram
