@@ -22,7 +22,7 @@
 ### Milestone
 
 - Meet with Clients and assign member who can efficiently achieve requirements by clients.
-- Fix all defects or place where can be improve.
+- Finish all improvement and fix all defects. Then integrate them and test for debugging.
 - Prepare visualization, powerpoint and documentation before demos shown. 
 
 This job has **highest priority**.
