@@ -31,4 +31,4 @@ Must be resolved by **Oct.16th, 2020**.
 
 ### Gantt diagram
 
-![Image]()
+![Image](https://github.com/yanghaoxixi/MyWonder/blob/gh-pages/Gatt_chart.png)
