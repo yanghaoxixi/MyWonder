@@ -5,36 +5,20 @@
 - **How:** Distribute massive files on the cloud to improve the efficiency.
 - **Why good:** User can calculate analytics and summaries from their phones easily, even before jumping to a meeting.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Identified wastes
 
-### Markdown
+- **Waiting** CEO needs to call customer assistance team to meet with clients. And customer support need to talk to designer and then met with developers, then finally update contents by backend team.
+- **Skills** The terminology and contents used in UI is not very appropriate for demos. And there is no area to put a "Note" in visualizations.
+- **Over-Processing** Team work separately and create too many examples of visualization to be used for demos.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Deliverables
 
-```markdown
-Syntax highlighted code block
+aaaa
 
-# Header 1
-## Header 2
-### Header 3
+### Milestone
 
-- Bulleted
-- List
+aaaaa
 
-1. Numbered
-2. List
+### Gantt diagram
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yanghaoxixi/MyWonder.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+aaa
