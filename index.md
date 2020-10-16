@@ -13,7 +13,11 @@
 
 ### Deliverables
 
-aaaa
+- Improve the terminology and content in UI for demos.
+- Seperate the environment of testing and production for efficiently change contents before demos.
+- Set place for users to put "Note" in visualization.
+- Create a few visualization examples for demos.
+- Create a Powerpoint with screenshots to walk through a visualization. And add it to documentation as examples.
 
 ### Milestone
 
